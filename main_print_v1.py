@@ -1,8 +1,8 @@
 #1
 print("Hello world!")
 
-name = "Bomin"
-age = 20
+name = "Alice"
+age = 25
 score = 95.5
 
 #2
